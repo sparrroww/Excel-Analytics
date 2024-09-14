@@ -24,8 +24,7 @@ Empower businesses to track and evaluate their sales activities and performance 
 ## Finance Report
 
 ### Project Objectives:
-- Generate [Profit & Loss (P&L) reports by Fiscal Year](https://github.com/sparrroww/Excel-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf).
-- Generate [Profit & Loss (P&L) reports by Fiscal Months](https://github.com/sparrroww/Excel-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf).
+- Generate Profit & Loss (P&L) reports by Fiscal [Year](https://github.com/sparrroww/Excel-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [Months](https://github.com/sparrroww/Excel-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf).
 - Generate [Profit & Loss (P&L) reports by Market](https://github.com/sparrroww/Excel-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf).
 
 ### Purpose of Finance Analytics:
